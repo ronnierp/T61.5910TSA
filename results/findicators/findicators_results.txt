@@ -1,0 +1,1 @@
+The results comprise CSV files and the histograms concerning all possible scenarios.

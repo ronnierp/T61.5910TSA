@@ -26,3 +26,5 @@ Minimum Requirements:
 		- Python 2.7
 		- Pandas 0.16.2
 		- Numpy v.1.9.2
+		- StatsModels v.0.60
+		- SciKit Learn v.0.17
